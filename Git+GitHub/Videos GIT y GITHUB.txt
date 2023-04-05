@@ -1,0 +1,18 @@
+1. Video Fundamentos básicos de Git
+	https://youtu.be/W3KYMnATYSw
+
+2. Video Inicializacion repositorio local.  Configuración de rótulo
+	https://youtu.be/OTKc4G6AUhI
+
+3. Video Enviar información entre repositorios
+	https://youtu.be/3D2zQ7PjzEw
+
+4. Clonar un repositorio
+	https://youtu.be/ZGU17rRNqxI
+
+5. Repaso de comandos
+	https://youtu.be/O_bk7p9Ll94
+
+
+
+
